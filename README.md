@@ -6,4 +6,4 @@ new line
 next new line
 line from local
 1
-
+2
