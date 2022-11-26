@@ -21,12 +21,8 @@ line from local
 14
 15
 16
-<<<<<<< HEAD
 17
 18
 19
 20
 21
-
-=======
->>>>>>> e5bab2c (16th line)
